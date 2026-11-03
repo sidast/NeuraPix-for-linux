@@ -1,0 +1,33 @@
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Entwicklungsumgebung
+.vscode/
+
+# Persönliche Daten
+*.pkl
+*.db
+*.sqlite
+*.sqlite3
+*.log
+
+# Bilddaten
+BIlder/
+.thumbnails/
+Programmdateien/
+final/
+
+# Backups
+backups/
+backup_gui.py
+
+# Build-Dateien
+build/
+dist/
+
+# Große Dateien und KI-Modelle
+*.zip
+*.onnx

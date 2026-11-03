@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=NeuraPix
+GenericName=Gar nicht mal so unintelligente Bildverwaltung
+Comment=Intelligente Bildverwaltung und Gesichtserkennung
+Exec=neurapix
+Icon=neurapix
+Terminal=false
+Categories=Graphics;Photography;
+StartupNotify=false
